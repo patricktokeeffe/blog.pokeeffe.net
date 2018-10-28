@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Hello world
+
+Hi there! Setting up this blog was very easy! Thanks [github](github.com) 👍
+
+---
 
 You can use the [editor on GitHub](https://github.com/patricktokeeffe/patricktokeeffe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
